@@ -1,0 +1,4 @@
+- hosts: sample_group_name
+  tasks:
+    - name: just an uname
+      command: uname -a
